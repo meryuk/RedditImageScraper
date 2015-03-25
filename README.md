@@ -10,7 +10,7 @@ This program downloads "top" submission from [r/wallpapers/](https://www.reddit.
 [1] I only tested it with Python 3.4.0 but it should work from Python 3.1 onwards.
 
 ### Usage
-Open the terminal and write:
+Open the terminal and write(you need to be in the same directory as script):<br>
 ```python3 image_scraper.py```
 
 ### TODO
